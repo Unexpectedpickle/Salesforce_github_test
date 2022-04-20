@@ -5,8 +5,14 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "Test2",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
+=======
+  "name": "Test",
+  "namespace": "",
+  "sfdcLoginUrl": "https://playful-badger-v8amza-dev-ed.lightning.force.com/",
+>>>>>>> a1703b6ff829974a18cde503894448fcd1f1d246
   "sourceApiVersion": "54.0"
 }
