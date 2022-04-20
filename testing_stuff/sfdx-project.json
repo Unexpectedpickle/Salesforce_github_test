@@ -7,6 +7,6 @@
   ],
   "name": "testing_stuff",
   "namespace": "",
-  "sfdcLoginUrl": "https://resourceful-moose-hfyj6l-dev-ed.lightning.force.com",
+  "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0"
 }
